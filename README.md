@@ -13,8 +13,8 @@
 * Hardware & IoT: Arduino
 * Tools & Platforms: Git, GitHub, Docker, Azure, VS Code, PyCharm
 ## Featured Projects
-🧠 AI & Machine Learning Projects
-👁️ Computer Vision Applications
-🎮 Interactive Games & Experiences
-📱 Mobile Applications
+1 AI & Machine Learning Projects
+2 Computer Vision Applications
+3 Interactive Games & Experiences
+4 Mobile Applications
 
